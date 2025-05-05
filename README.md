@@ -24,3 +24,5 @@ Interactive Sales Dashboard is a Python web app that visualizes sales data throu
 1. Clone the repository:
    ```bash
    git clone https://github.com/verges-ai/interactive-sales-dashboard.git
+   cd interactive-sales-dashboard
+
